@@ -1,2 +1,2 @@
 # RPGSouls
-Simple Unity 2D RPG Project
+Unity 2D RPG Game
